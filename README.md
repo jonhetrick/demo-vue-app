@@ -1,4 +1,5 @@
-# Demo Vue App 
+# Demo-Vue-App 
+### Author: Jon Hetrick
 
 - Using Custom vue.config.js file.
   - Using /docs instead of /dist for our build files.
