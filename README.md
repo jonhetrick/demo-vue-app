@@ -1,4 +1,8 @@
-# test-project
+# Demo Vue App 
+
+- Using Custom vue.config.js file.
+  - Using /docs instead of /dist for our build files.
+  - Using /assests for a single sub-folder for all our assests.
 
 ## Project setup
 ```
